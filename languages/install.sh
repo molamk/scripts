@@ -1,5 +1,5 @@
 #!/bin/bash
 
-#./node.sh
-#./java.sh
+# ./node.sh
+# ./java.sh
 
