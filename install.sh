@@ -2,5 +2,5 @@
 
 ./basic.sh
 ./dotfiles.sh
-./terminal/install.sh
+cd terminal && ./install.sh && cd ..
 
